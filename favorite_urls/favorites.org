@@ -2,7 +2,7 @@
 
 ** English News
 
-[[[[www.washingtonpost.com]]][Washington Post]]
+[[http://[[www.washingtonpost.com]]][Washington Post]]
 
 * DBMS
 
