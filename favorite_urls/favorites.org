@@ -1,12 +1,128 @@
+#+STARTUP: indent
+
+* Temporary
+
+** Memory Allocator in C++
+[[https://www.codeproject.com/articles/4795/c-standard-allocator-an-introduction-and-implement][C++ Standard Allocator, An Introduction and Implementation]]
+
+[[http://www.josuttis.com/cppcode/allocator.html][User-Defined Allocator]]
+
+[[https://www.ibm.com/developerworks/aix/tutorials/au-memorymanager/][Building your own memory manager for C/C++ projects]]
+
+* Urgent
+[[http://www.postgresqltutorial.com/plpgsql-case-statement/][Case in plpgsql]]
+
+* Long list and article
+[[https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-practice-problems-and-their-solutions][500 Data Structures and Algorithms practice problems and their solutions]]
+
 * News
 
 ** English News
 
-[[http://[[www.washingtonpost.com/]]][Washington Post]]
 [[http://www.washingtonpost.com][Washington Post]]
+
+[[https://www.nbcnews.com/][NBCNews]]
+
+[[http://www.51voa.com/English_in_a_Minute_Videos_1.html][VOA, English in a minute]]
 
 * DBMS
 
+** Theory
+
+*** Transaction
+
+[[https://www.depesz.com/2011/07/14/write-ahead-log-understanding-postgresql-conf-checkpoint_segments-checkpoint_timeout-checkpoint_warning/][Write Ahead Log]]
+
+
+
+** Oracel
+[[http://sishuok.com/forum/blogPost/list/6378.html][Oracle体系结构]]
+
+[[https://m.aliyun.com/yunqi/articles/78887][看了此文，Oracle SQL优化文章不必再看]]
+
+** PostgreSQL
+
+** MySQL
+
+** SQLite
+
 * Video
+** List
+[[http://news.mtime.com/2009/04/17/1407930.html][史上最具影响力的15部经典电影]]
+
+[[http://www.u148.net/article/1705.html][关于职场的十部经典电影——值得珍藏]]
+
+[[http://ent.qq.com/a/20080717/000174.htm][穿越宇宙——十五部太空史诗电影]]
+
+[[http://news.mtime.com/2009/04/24/1408349.html][不忍再看第二遍的二十四部佳片]]
+
+[[http://v.youku.com/v_show/id_XMzc2NTQ2NTU2.html][耶鲁大学公开课:哲学死亡]]
+
+[[http://v.youku.com/v_show/id_XNTAwMDI4NzY4.html][唐顿庄园]]
+
+[[http://www.iqiyi.com/v_19rrk0yzwc.html][人类消失后的世界]]
+
+[[http://open.163.com/special/opencourse/painting.html][加州艺术学院公开课：绘画与绘图]]
+
+[[http://v.youku.com/v_show/id_XMzE1MzcyNTY0.html][全球变暖的大骗局]]
+
+[[http://www.iqiyi.com/v_19rrk2wgkw.html][忠犬八公物语]]
+
+** Lecture
+[[http://open.163.com/special/sp/positivepsychology.html][哈佛大学公开课：幸福课]]
+
+
+** Movie
+[[http://v.youku.com/v_show/id_XMTE5MDQ3NDQ=.html][十二怒汉 美国版，1957]]
+
+** Series
+[[http://list.youku.com/show/id_zcbfb6f06962411de83b1.html][玉观音]]
+
+[[https://v.qq.com/x/cover/qk8vyb5drwnn174/f0012c6nexb.html?ptag=baidu.video.tv][蛇蝎女佣]]
+
+[[https://site.douban.com/109824/widget/videos/2247395/][纪录片放映室]]
+
+
+* Programming Language
+
+** Clojure
+[[https://objectcomputing.com/resources/publications/sett/march-2009-clojure-functional-programming-for-the-jvm/][CLOJURE - FUNCTIONAL PROGRAMMING FOR THE JVM]]
+
+[[https://clojure.org/reference/evaluation][Evaluation in Clojure]]
+
+[[https://github.com/jamiltron/4clojure-solutions/blob/master/solutions.clj][solutions for 4clojure]]
+
+** C++
+[[https://eli.thegreenplace.net/2011/12/15/understanding-lvalues-and-rvalues-in-c-and-c/~][Understanding lvalues and rvalues in C and C++]]
+
+** Python
+[[http://python-3-patterns-idioms-test.readthedocs.io/en/latest/index.html][Python 3 Patterns, Recipes and Idioms]]
+
+[[http://gitready.com][git ready]]
+
+* Tools
+
+** Git
 
 * Reference
+** Dictionary
+[[http://www.iciba.com/temporary][爱词霸]]
+
+[[https://www.vocabulary.com/][Vocabulary]]
+
+
+* Site and project
+
+** Deep Learning
+[[http://www.deeplearningbook.org/][Deep Learning, An MIT Press book]]
+
+** Data Analysis
+[[https://www.dataquest.io/m/6/getting-started-with-numpy/3/array-shape][Getting started with numpy]]
+
+[[http://r4ds.had.co.nz/][R for Data Science]]
+
+** [[https://calcite.apache.org/][Calcite]]
+
+* Finished
+
+** 
