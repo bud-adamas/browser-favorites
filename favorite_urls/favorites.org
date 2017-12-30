@@ -1,53 +1,174 @@
 #+STARTUP: indent
 
 * Temporary
+[[http://www.oschina.net/translate/valgrind-is-not-a-leak-checker][Valgrind *不是* 泄漏检查工具]]
 
-** Memory Allocator in C++
-[[https://www.codeproject.com/articles/4795/c-standard-allocator-an-introduction-and-implement][C++ Standard Allocator, An Introduction and Implementation]]
+[[https://idea.popcount.org/2013-07-24-ir-is-better-than-assembly/][ir is better than assembly]]
 
-[[http://www.josuttis.com/cppcode/allocator.html][User-Defined Allocator]]
+[[https://my.oschina.net/taogang/blog/271060][使用Python抓取欧洲足球联赛数据]]
 
-[[https://www.ibm.com/developerworks/aix/tutorials/au-memorymanager/][Building your own memory manager for C/C++ projects]]
+[[https://en.wikipedia.org/wiki/Web_scraping][Web scraping]]
 
-* Urgent
-[[http://www.postgresqltutorial.com/plpgsql-case-statement/][Case in plpgsql]]
+[[http://web.mit.edu/kerberos/dialogue.html][Designing an Authentication System: a Dialogue in Four Scenes]]
 
-* Long list and article
-[[https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-practice-problems-and-their-solutions][500 Data Structures and Algorithms practice problems and their solutions]]
+[[https://software.intel.com/en-us/articles/implementing-scalable-atomic-locks-for-multi-core-intel-em64t-and-ia32-architectures][Implementing Scalable Atomic Locks for Multi-Core Intel® EM64T and IA32 Architectures]]
 
-* News
+[[https://en.wikipedia.org/wiki/Compare-and-swap][Compare-and-swap]]
 
-** English News
+[[http://blog.csdn.net/lifesider/article/details/6582338][无锁的数据结构（Lock-Free）及CAS（Compare-and-Swap）机制]]
 
-[[http://www.washingtonpost.com][Washington Post]]
+[[http://preshing.com/20120612/an-introduction-to-lock-free-programming/][An Introduction to Lock-Free Programming]]
 
-[[https://www.nbcnews.com/][NBCNews]]
+[[https://www.computerhope.com/unix/ip.htm][Linux ip command]]
 
-[[http://www.51voa.com/English_in_a_Minute_Videos_1.html][VOA, English in a minute]]
+[[https://www.tecmint.com/ip-command-examples/][10 Useful “IP” Commands to Configure Network Interfaces]]
 
-* DBMS
-
-** Theory
-
-*** Transaction
-
-[[https://www.depesz.com/2011/07/14/write-ahead-log-understanding-postgresql-conf-checkpoint_segments-checkpoint_timeout-checkpoint_warning/][Write Ahead Log]]
+[[https://linoxide.com/linux-command/use-ip-command-linux/][How To Use Ip Command In Linux with Examples]]
 
 
 
-** Oracel
-[[http://sishuok.com/forum/blogPost/list/6378.html][Oracle体系结构]]
+** memory allocator in c++
+[[https://www.codeproject.com/articles/4795/c-standard-allocator-an-introduction-and-implement][c++ standard allocator, an introduction and implementation]]
 
-[[https://m.aliyun.com/yunqi/articles/78887][看了此文，Oracle SQL优化文章不必再看]]
+[[http://www.josuttis.com/cppcode/allocator.html][user-defined allocator]]
 
-** PostgreSQL
+[[https://www.ibm.com/developerworks/aix/tutorials/au-memorymanager/][building your own memory manager for c/c++ projects]]
 
-** MySQL
+* urgent
+[[http://www.postgresqltutorial.com/plpgsql-case-statement/][case in plpgsql]]
+* long list and article
+[[https://techiedelight.quora.com/500-data-structures-and-algorithms-practice-problems-and-their-solutions][500 data structures and algorithms practice problems and their solutions]]
 
-** SQLite
+[[http://www.manythings.org/voa/history/][american history for english learners]]
+* news
+** english news
+[[http://www.washingtonpost.com][washington post]]
 
-* Video
-** List
+[[https://www.nbcnews.com/][nbcnews]]
+
+[[http://www.51voa.com/english_in_a_minute_videos_1.html][voa, english in a minute]]
+
+[[http://language.chinadaily.com.cn/][china daily]]
+
+[[https://www.theguardian.com/uk][the guardian]]
+
+[[http://www.latimes.com/hp-2/][los angeles times]]
+** arab
+[[https://www.madinaharabic.com/arabic_reading_course/lessons/l000_001.html][arabic reading course]]
+
+[[http://www.arabic-keyboard.org/arabic/][the arabic language: history and facts]]
+
+[[http://www.aljazeera.net/portal][半岛电视台]]
+* Computer
+*** software theory
+[[http://infolab.stanford.edu/~burback/watersluice/node299.html][software engineering methodology]]
+
+*** operating system
+[[http://pages.cs.wisc.edu/~remzi/ostep/][operating systems: three easy pieces]]
+
+[[http://wyw.dcweb.cn/static_mem_pool.htm][design and implementation of a static memory pool]]
+
+[[https://www.cyberciti.biz/tips/understanding-unixlinux-file-system-part-i.html][understanding unix / linux file system]]
+
+[[http://yinsochen.com/asynchronous-io/][asynchronous io]]
+
+[[https://en.wikipedia.org/wiki/message_signaled_interrupts][message signaled interrupts]]
+
+[[https://my.oschina.net/moooofly/blog/175019][__builtin_expect 解惑]]
+**** file system
+[[https://arstechnica.com/information-technology/2014/01/bitrot-and-atomic-cows-inside-next-gen-filesystems/#image-2][bitrot and atomic cows: inside “next-gen” filesystems]]
+*** data structure and algorithm
+[[https://en.wikipedia.org/wiki/bitonic_sorter][bitonic sorter]]
+
+[[https://www.cs.rutgers.edu/~venugopa/parallel_summer2012/bitonic_overview.html][bitonic sort]]
+*** network
+[[https://banu.com/blog/2/how-to-use-epoll-a-complete-example-in-c/][how to use epoll? a complete example in c]]
+
+[[http://blog.csdn.net/sparkliang/article/details/4957744][libevent源码深度剖析]]
+
+*** hardware
+[[https://www.waste.org/~winkles/hardware/pci.htm][pci bus info and code from a programmer's perspective]]
+
+[[http://danluu.com/new-cpu-features/][What's new in CPUs since the 80s and how does it affect programmers?]]
+* dbms
+[[http://zoo.cs.yale.edu/classes/cs637/sched.html][database system architectures]]
+** theory
+*** transaction
+[[https://www.depesz.com/2011/07/14/write-ahead-log-understanding-postgresql-conf-checkpoint_segments-checkpoint_timeout-checkpoint_warning/][write ahead log]]
+
+[[http://wenku.it168.com/d_001335785.shtml][事务处理-锁]]
+
+[[http://highscalability.com/blog/2009/5/5/drop-acid-and-think-about-data.html][drop acid and think about data]]
+
+[[http://highscalability.com/blog/2009/8/24/how-google-serves-data-from-multiple-datacenters.html][how google serves data from multiple datacenters]]
+
+[[https://en.wikipedia.org/wiki/transaction_log][transaction log]]
+
+[[https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed][cap twelve years later: how the "rules" have changed]]
+*** expression calculation
+[[http://blog.cloudera.com/blog/2013/02/inside-cloudera-impala-runtime-code-generation/][inside cloudera impala: runtime code generation]]
+*** storage
+[[http://blog.csdn.net/v_july_v/article/details/6530142/][从b树、b+树、b*树谈到r 树]]
+
+[[http://duanple.blog.163.com/blog/static/7097176720120391321283/][the log-structured merge-tree]]
+*** optimizer
+[[https://oracleblog.org/study-note/study-hash-join/][hash join 读书笔记]]
+** sql
+[[http://www.w3school.com.cn/sql/sql_in.asp][sql in 操作符]]
+
+[[https://blog.jooq.org/2013/07/30/10-common-mistakes-java-developers-make-when-writing-sql/][10 common mistakes java developers make when writing sql]]
+
+[[https://blog.jooq.org/2013/08/12/10-more-common-mistakes-java-developers-make-when-writing-sql/][10 more common mistakes java developers make when writing sql]]
+
+[[http://sqlzoo.net/wiki/sql_tutorial][sql tutorial]]
+** oracle
+[[http://sishuok.com/forum/blogpost/list/6378.html][oracle体系结构]]
+
+[[https://m.aliyun.com/yunqi/articles/78887][看了此文，oracle sql优化文章不必再看]]
+
+[[https://docs.oracle.com/cd/b28359_01/server.111/b28274/optimops.htm#pfgrf001][database performance tuning guide]]
+
+[[https://docs.oracle.com/cd/b28359_01/server.111/b28274/optimops.htm#pfgrf001][the query optimizer]]
+
+[[https://oracle-base.com/articles/misc/cost-based-optimizer-and-database-statistics][cost-based optimizer (cbo) and database statistics]]
+
+** postgresql
+[[http://blog.chinaunix.net/uid-24774106-id-3764994.html][postgresql源码分析之fsm]]
+
+[[http://blog.sina.com.cn/s/blog_48c95a190100iknm.html][postgresql中的进程]]
+
+[[http://www.dataguru.cn/thread-389158-1-1.html][postgresql源代码的结构]]
+
+[[http://blog.jobbole.com/113358/][postgresql 查询成本模型]]
+
+[[http://blog.csdn.net/beiigang/article/category/947307/2][深入理解postgresql]]
+
+[[http://etutorials.org/sql/postgresql/part+i+general+postgresql+use/chapter+4.+performance/how+postgresql+organizes+data/][how postgresql organizes data]]
+
+** mysql
+[[http://blogread.cn/it/article/4772?f=sa][mysql数据库innodb存储引擎查询优化器实现的分析之统计信息]]
+
+[[http://blogread.cn/it/article/234?f=sa][mysql查询优化器浅析]]
+
+[[http://www.informit.com/articles/article.aspx?p=377652][mysql query optimization]]
+** sqlite
+[[http://www.cnblogs.com/xzpp/category/320908.html][sqlite 随笔]]
+
+[[http://www.sqlite.org/queryplanner-ng.html][the next-generation query planner]]
+
+[[https://www.sqlite.org/opcode.html][the sqlite bytecode engine]]
+** sql server
+[[https://technet.microsoft.com/en-us/library/ms181714(v=sql.105).aspx][query hints (transact-sql)]]
+
+[[https://www.red-gate.com/simple-talk/sql/t-sql-programming/the-query-optimizer-date-correlation-optimisation/][the query optimizer: date correlation optimisation]]
+** othres
+[[http://blinkdb.org/][blinkdb]]
+
+[[http://kylin.apache.org/][apache kylin]]
+** jdbc
+[[https://www.javaworld.com/article/2074249/data-storage/create-your-own-type-3-jdbc-driver--part-1.html][create your own type 3 jdbc driver]]
+* video
+** list
 [[http://news.mtime.com/2009/04/17/1407930.html][史上最具影响力的15部经典电影]]
 
 [[http://www.u148.net/article/1705.html][关于职场的十部经典电影——值得珍藏]]
@@ -56,61 +177,237 @@
 
 [[http://news.mtime.com/2009/04/24/1408349.html][不忍再看第二遍的二十四部佳片]]
 
-[[http://v.youku.com/v_show/id_XMzc2NTQ2NTU2.html][耶鲁大学公开课:哲学死亡]]
+[[http://v.youku.com/v_show/id_xmzc2ntq2ntu2.html][耶鲁大学公开课:哲学死亡]]
 
-[[http://v.youku.com/v_show/id_XNTAwMDI4NzY4.html][唐顿庄园]]
+[[http://v.youku.com/v_show/id_xntawmdi4nzy4.html][唐顿庄园]]
 
 [[http://www.iqiyi.com/v_19rrk0yzwc.html][人类消失后的世界]]
 
 [[http://open.163.com/special/opencourse/painting.html][加州艺术学院公开课：绘画与绘图]]
 
-[[http://v.youku.com/v_show/id_XMzE1MzcyNTY0.html][全球变暖的大骗局]]
+[[http://v.youku.com/v_show/id_xmze1mzcynty0.html][全球变暖的大骗局]]
 
 [[http://www.iqiyi.com/v_19rrk2wgkw.html][忠犬八公物语]]
 
-** Lecture
+** lecture
 [[http://open.163.com/special/sp/positivepsychology.html][哈佛大学公开课：幸福课]]
 
+[[http://v.163.com/jishi/v8u09b3pi/v8u0bqjmo.html][关于减肥你应该知道的十件事]]
+** movie
+[[http://v.youku.com/v_show/id_xmte5mdq3ndq=.html][十二怒汉 美国版，1957]]
 
-** Movie
-[[http://v.youku.com/v_show/id_XMTE5MDQ3NDQ=.html][十二怒汉 美国版，1957]]
-
-** Series
+** series
 [[http://list.youku.com/show/id_zcbfb6f06962411de83b1.html][玉观音]]
 
 [[https://v.qq.com/x/cover/qk8vyb5drwnn174/f0012c6nexb.html?ptag=baidu.video.tv][蛇蝎女佣]]
 
 [[https://site.douban.com/109824/widget/videos/2247395/][纪录片放映室]]
 
+* programming language
+** clojure
+[[https://objectcomputing.com/resources/publications/sett/march-2009-clojure-functional-programming-for-the-jvm/][clojure - functional programming for the jvm]]
 
-* Programming Language
-
-** Clojure
-[[https://objectcomputing.com/resources/publications/sett/march-2009-clojure-functional-programming-for-the-jvm/][CLOJURE - FUNCTIONAL PROGRAMMING FOR THE JVM]]
-
-[[https://clojure.org/reference/evaluation][Evaluation in Clojure]]
+[[https://clojure.org/reference/evaluation][evaluation in clojure]]
 
 [[https://github.com/jamiltron/4clojure-solutions/blob/master/solutions.clj][solutions for 4clojure]]
 
-** C++
-[[https://eli.thegreenplace.net/2011/12/15/understanding-lvalues-and-rvalues-in-c-and-c/~][Understanding lvalues and rvalues in C and C++]]
+** c++
+[[https://eli.thegreenplace.net/2011/12/15/understanding-lvalues-and-rvalues-in-c-and-c/~][understanding lvalues and rvalues in c and c++]]
 
-** Python
-[[http://python-3-patterns-idioms-test.readthedocs.io/en/latest/index.html][Python 3 Patterns, Recipes and Idioms]]
+[[https://coolshell.cn/articles/5265.html][c++11 中值得关注的几大变化]]
 
+[[http://allanmcrae.com/category/c11/][c++11 – part 8: rvalue references and move semantics]]
+
+[[https://www.codesynthesis.com/~boris/blog/2008/11/24/rvalue-reference-basics/][rvalue-references: the basics]]
+
+[[https://eli.thegreenplace.net/2011/12/15/understanding-lvalues-and-rvalues-in-c-and-c/][understanding lvalues and rvalues in c and c++]]
+
+[[https://www.cprogramming.com/c++11/rvalue-references-and-move-semantics-in-c++11.html][move semantics and rvalue references in c++11]]
+
+[[https://www.codeproject.com/articles/570638/ten-cplusplus-features-every-cplusplus-developer][ten c++11 features every c++ developer should use]]
+
+[[http://blog.csdn.net/hikaliv/article/details/4212864][c++异常处理须知]]
+** python
+[[http://python-3-patterns-idioms-test.readthedocs.io/en/latest/index.html][python 3 patterns, recipes and idioms]]
+
+[[https://learnpythonthehardway.org/book/#video][learn python 2 the hard way]]
+
+[[http://www.tutorialspoint.com/python/index.htm][python - tutorial]]
+
+[[https://my.oschina.net/taogang/blog/271060][使用python抓取欧洲足球联赛数据]]
+
+[[http://blog.csdn.net/balabalamerobert/article/category/168910][python源码剖析]]
+** erlang
+[[http://www.cnblogs.com/me-sa/archive/2011/10/23/2221884.html][erlang 杂记]]
+
+[[http://learnyousomeerlang.com/starting-out][learn you some erlang for great good!]]
+** lisp
+[[http://acl.readthedocs.io/en/latest/zhcn/preface-cn.html][ansi common lisp 中文版]]
+** f#
+[[https://channel9.msdn.com/blogs/pdc2008/tl11][an introduction to microsoft f#]]
+** swift
+[[https://developer.apple.com/library/content/documentation/swift/conceptual/swift_programming_language/guidedtour.html#//apple_ref/doc/uid/tp40014097-ch2-xid_1][a swift tour]]
+** scala
+[[http://twitter.github.io/scala_school/zh_cn/][scala 课堂]]
+
+[[http://docs.scala-lang.org/tutorials/][a tour of scala]]
+
+[[http://docs.scala-lang.org/overviews/][guides and overviews]]
+
+[[https://github.com/csug/real_world_scala][real world scala]]
+
+[[http://docs.scala-lang.org/tour/tour-of-scala.html][tour of scala]]
+
+[[https://github.com/lauris/awesome-scala][awesome scala]]
+
+[[https://www.artima.com/scalazine/articles/pattern_matching.html][the point of pattern matching in scala]]
+* tools
+** linux & unix
+[[http://blog.csdn.net/zhoudaxia/article/details/6666872][linux init程序分析]]
+
+[[https://www.ibm.com/developerworks/linux/library/l-initrd/index.html#ibm-pcon][linux initial ram disk (initrd) overview]]
+
+[[http://beej.us/guide/bgipc/][beej's guide to unix interprocess communication]]
+
+[[http://wenku.it168.com/d_001063586.shtml][精通init ramfs构建]]
+
+[[http://www.jinbuguo.com/kernel/longterm-linux-kernel-options.html][linux-4.4-x86_64 内核配置选项简介]]
+
+[[https://www.centos.org/docs/5/html/deployment_guide-en-us/ch-acls.html][access control lists]]
+
+[[http://cjacker.is-programmer.com/posts/61151.html][cross toolchain under linux]]
+
+[[http://blog.csdn.net/pennyliang/article/category/746545/2][linux奇技淫巧]]
+
+[[http://www.tldp.org/ldp/tlk/tlk.html][the linux kernel]]
+
+[[http://www.tldp.org/ldp/sag/html/index.html][the linux system administrator's guide]]
+** vim
+[[http://vim.wikia.com/wiki/mapping_keys_in_vim_-_tutorial_(part_1)][mapping keys in vim]]
+
+[[http://learnvimscriptthehardway.stevelosh.com/chapters/01.html][learn vimscript the hard way]]
+** git
 [[http://gitready.com][git ready]]
+** emacs
+** qt
+[[http://wiki.qt.io/basic_qt_programming_tutorial][basic qt programming tutorial]]
 
-* Tools
+[[http://doc.qt.io/qt-5/qtwidgets-mainwindows-application-example.html][qt documentation]]
 
-** Git
+[[https://www.devbean.net/2012/08/qt-study-road-2-catelog/][qt 学习之路]]
 
+[[https://woboq.com/blog/how-qt-signals-slots-work.html][how qt signals and slots work]]
+** tex
+[[http://www.math.ubc.ca/~cass/graphics/manual/][mathematical illustrations]]
+
+[[https://tex.stackexchange.com/][tex exchange]]
+
+[[http://heather.cs.ucdavis.edu/~matloff/beamer.html][the beamer package for slide making in latex]]
+
+[[https://www.miwie.org/presentations/presentations.html][screen presentation tools]]
+** xml
+[[http://www.xmlpatterns.com/][develop effective xml documents using structural design patterns]]
+** llvm
+[[http://llvm.org/docs/mcjitdesignandimplementation.html][mcjit design and implementation]]
+
+[[http://www.aosabook.org/en/llvm.html][the architecture of open source applications: llvm]]
+** hadoop
+[[http://blog.cloudera.com/blog/2014/08/whats-next-for-impala-focus-on-advanced-sql-functionality/][what’s next for impala: focus on advanced sql functionality]]
+
+[[http://shiyanjun.cn/archives/962.html][hdfs读文件过程分析：读取文件的block数据]]
+
+[[http://sishuok.com/forum/blogpost/list/5936.html][hdfs原理 架构和副本机制]]
+
+[[http://langyu.iteye.com/blog/992916][mapreduce:详解shuffle过程]]
+** docker
+[[https://my.oschina.net/feedao/blog/223795][docker使用系列]]
+
+[[http://www.infoq.com/cn/articles/docker-source-code-analysis-part2?utm_source=infoq&utm_medium=related_content_link&utm_campaign=relatedcontent_articles_clk][docker源码分析]]
+
+[[http://www.oschina.net/translate/docker-network-configuration][docker 网络配置]]
+
+[[https://goldmann.pl/blog/2014/01/21/connecting-docker-containers-on-multiple-hosts/][connecting docker containers on multiple hosts]]
+** spark
+[[http://shiyanjun.cn/archives/744.html][RDD：基于内存的集群计算容错抽象]]
+
+[[http://www.adobe.com/devnet/flex/articles/flex4_sparkintro.html][a brief overview of the spark architecture and component set]]
+
+[[https://sparkhub.databricks.com/resources/][SparkHub Apache® Spark™ Developer Resources]]
+
+[[https://dzone.com/articles/apache-spark-fast-big-data][Apache Spark - a Fast Big Data Analytics Engine]]
+
+[[http://jerryshao.me/architecture/2013/03/29/spark-overview/][Spark Overview]]
+
+[[http://wenku.it168.com/d_001490862.shtml][Parallel programming with Spark]]
+
+[[http://wenku.it168.com/d_001490889.shtml][Understanding the Performance of Spark Applications]]
+
+[[http://wenku.it168.com/d_000933800.shtml][Spark与Hadoop计算模型的比较分析]]
+
+[[http://wenku.it168.com/d_001557001.shtml][spark源码分析]]
+
+[[http://wenku.it168.com/d_001571580.shtml][Apache Hadoop YARN]]
+
+[[https://www.iteblog.com/archives/tag/spark/][Spark 专栏]]
+
+[[https://my.oschina.net/ghostmanyue/blog][stark_summer 博客]]
+** Misc
+[[http://www.sagehill.net/docbookxsl/index.html][DocBook XSL: The Complete Guide]]
+* Math
+[[https://mathematica.stackexchange.com/questions/3069/elegant-operations-on-matrix-rows-and-columns][Elegant operations on matrix rows and columns]]
+* Life
+[[https://www.forbes.com/sites/jessicahagy/2012/10/04/40-things-to-say-before-you-die/#73e9c9202605][40 Things To Say Before You Die]]
+* Community
+[[https://www.coursera.org/][Coursera]]
+
+[[http://wiki.osdev.org/Main_Page][OSDev.org]]
+
+[[http://vim.wikia.com/wiki/Vim_Tips_Wiki][Vim Tips wiki]]
+
+[[http://site.icu-project.org/][ICU-TC]]
+
+[[http://oedb.org/ilibrarian/top-89-open-courseware-projects/][Top 89 Open Courseware Projects]]
+
+[[https://wiki.haskell.org/99_Haskell_exercises][H-99: Ninety-Nine Haskell Problems]]
+
+[[https://kernelnewbies.org/][Kernel Hacking]]
+
+[[https://www.ibm.com/developerworks/cn/][DeveloperWorks]]
+
+[[https://mooc.guokr.com/][慕课学院]]
+
+[[http://www.pythontab.com/][Python中文开发者社区]]
+
+[[https://blogs.oracle.com/blogdirectory][Oracle Blog Directory]]
+
+[[https://leetcode.com/][leetcode]]
+
+[[http://hedengcheng.com/][何登成的技术博客]]
+
+[[https://www.percona.com/blog/][Percona Database Performance Blog]]
+
+[[https://searchdatabase.techtarget.com.cn/][TechTarget 数据库专栏]]
 * Reference
 ** Dictionary
 [[http://www.iciba.com/temporary][爱词霸]]
 
 [[https://www.vocabulary.com/][Vocabulary]]
+** Manual
+[[http://agilemodeling.com/artifacts/][Agile Models Distilled: Potential Artifacts for Agile Modeling]]
 
+[[http://www.cplusplus.com/reference/][Standard C++ Library reference]]
 
+[[https://en.wikipedia.org/wiki/Category:Concurrency_control_algorithms][Concurrency control algorithms]]
+
+[[http://www3.cs.stonybrook.edu/~algorith/][The Stony Brook Algorithm Repository]]
+
+[[http://blog.sina.com.cn/s/blog_47616e4c01012iol.html][latex中的各种距离设置]]
+
+[[http://cseweb.ucsd.edu/classes/su09/cse120/schedule.html][Principles of Computer Operating Systems]]
+
+[[http://llvm.org/docs/LangRef.html][LLVM Language Reference Manual]]
+
+[[https://www.cloudera.com/documentation/enterprise/latest.html][Cloudera Enterprise 5.13.x Documentation]]
 * Site and project
 
 ** Deep Learning
@@ -126,3 +423,10 @@
 * Finished
 
 ** 
+
+
+
+
+
+
+
