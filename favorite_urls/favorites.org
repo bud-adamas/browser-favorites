@@ -25,7 +25,7 @@
 
 [[https://linoxide.com/linux-command/use-ip-command-linux/][How To Use Ip Command In Linux with Examples]]
 
-
+[[http://www.oschina.net/news/58075/why-i-dont-understand-your-code][为什么我看不懂你的代码]]
 
 ** memory allocator in c++
 [[https://www.codeproject.com/articles/4795/c-standard-allocator-an-introduction-and-implement][c++ standard allocator, an introduction and implementation]]
@@ -40,6 +40,8 @@
 [[https://techiedelight.quora.com/500-data-structures-and-algorithms-practice-problems-and-their-solutions][500 data structures and algorithms practice problems and their solutions]]
 
 [[http://www.manythings.org/voa/history/][american history for english learners]]
+
+[[https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-zh.md][free-programming-books-zh]]
 * news
 ** english news
 [[http://www.washingtonpost.com][washington post]]
@@ -66,8 +68,6 @@
 *** operating system
 [[http://pages.cs.wisc.edu/~remzi/ostep/][operating systems: three easy pieces]]
 
-[[http://wyw.dcweb.cn/static_mem_pool.htm][design and implementation of a static memory pool]]
-
 [[https://www.cyberciti.biz/tips/understanding-unixlinux-file-system-part-i.html][understanding unix / linux file system]]
 
 [[http://yinsochen.com/asynchronous-io/][asynchronous io]]
@@ -75,12 +75,38 @@
 [[https://en.wikipedia.org/wiki/message_signaled_interrupts][message signaled interrupts]]
 
 [[https://my.oschina.net/moooofly/blog/175019][__builtin_expect 解惑]]
+
+[[https://en.wikipedia.org/wiki/Schedule_(computer_science)][Schedule (computer science)]]
+
+[[https://people.eecs.berkeley.edu/~kubitron/cs162/hand-outs/synch.html][Synchronization Primitives: Implementation and Examples]]
+
+[[http://www.cs.wustl.edu/~schmidt/win32-cv-1.html][Strategies for Implementing POSIX Condition Variables on Win32]]
+
+[[https://computing.llnl.gov/tutorials/pthreads/#ConditionVariables][Condition Variables]]
 **** file system
 [[https://arstechnica.com/information-technology/2014/01/bitrot-and-atomic-cows-inside-next-gen-filesystems/#image-2][bitrot and atomic cows: inside “next-gen” filesystems]]
+**** Memory
+[[http://www.andrew.cmu.edu/user/apodolsk/418/finalreport.html][nalloc: A Lock-Free Memory Allocator]]
+
+[[http://wyw.dcweb.cn/static_mem_pool.htm][design and implementation of a static memory pool]]
 *** data structure and algorithm
 [[https://en.wikipedia.org/wiki/bitonic_sorter][bitonic sorter]]
 
 [[https://www.cs.rutgers.edu/~venugopa/parallel_summer2012/bitonic_overview.html][bitonic sort]]
+
+[[https://en.wikipedia.org/wiki/Knapsack_problem][Knapsack problem]]
+
+[[https://en.wikipedia.org/wiki/Disjoint-set_data_structure][Disjoint-set data structure]]
+
+[[https://www.cs.usfca.edu/~galles/visualization/BTree.html][B-Tree Viaualization]]
+
+[[http://blog.codinglabs.org/articles/theory-of-mysql-index.html][MySQL索引背后的数据结构及算法原理]]
+
+[[http://www.cnblogs.com/coder2012/p/3330311.html][B-tree&B+tree]]
+
+[[https://en.wikipedia.org/wiki/B-tree][B-tree]]
+
+[[http://blog.sina.com.cn/s/blog_6776884e0100ohvr.html][B-Tree, B+Tree, B*树介绍]]
 *** network
 [[https://banu.com/blog/2/how-to-use-epoll-a-complete-example-in-c/][how to use epoll? a complete example in c]]
 
@@ -90,6 +116,10 @@
 [[https://www.waste.org/~winkles/hardware/pci.htm][pci bus info and code from a programmer's perspective]]
 
 [[http://danluu.com/new-cpu-features/][What's new in CPUs since the 80s and how does it affect programmers?]]
+*** Compiler
+[[http://www.linuxjournal.com/article/6463][Linkers and Loaders]]
+*** 数据挖掘及机器学习
+[[http://www.360doc.com/content/13/1124/02/9482_331688889.shtml][PCA数学原理]]
 * dbms
 [[http://zoo.cs.yale.edu/classes/cs637/sched.html][database system architectures]]
 ** theory
@@ -105,6 +135,8 @@
 [[https://en.wikipedia.org/wiki/transaction_log][transaction log]]
 
 [[https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed][cap twelve years later: how the "rules" have changed]]
+
+[[http://www.csdn.net/article/1970-01-01/2816504][分布式系统事务原子性的非阻塞实现]]
 *** expression calculation
 [[http://blog.cloudera.com/blog/2013/02/inside-cloudera-impala-runtime-code-generation/][inside cloudera impala: runtime code generation]]
 *** storage
@@ -113,6 +145,8 @@
 [[http://duanple.blog.163.com/blog/static/7097176720120391321283/][the log-structured merge-tree]]
 *** optimizer
 [[https://oracleblog.org/study-note/study-hash-join/][hash join 读书笔记]]
+
+[[http://structureddata.org/2008/05/22/null-aware-anti-join/][Null-Aware Anti-Join]]
 ** sql
 [[http://www.w3school.com.cn/sql/sql_in.asp][sql in 操作符]]
 
@@ -121,6 +155,8 @@
 [[https://blog.jooq.org/2013/08/12/10-more-common-mistakes-java-developers-make-when-writing-sql/][10 more common mistakes java developers make when writing sql]]
 
 [[http://sqlzoo.net/wiki/sql_tutorial][sql tutorial]]
+
+[[https://www.w3resource.com/PostgreSQL/pl-pgsql-tutorial.php][PL/pgSQL Tutorial]]
 ** oracle
 [[http://sishuok.com/forum/blogpost/list/6378.html][oracle体系结构]]
 
@@ -145,6 +181,7 @@
 
 [[http://etutorials.org/sql/postgresql/part+i+general+postgresql+use/chapter+4.+performance/how+postgresql+organizes+data/][how postgresql organizes data]]
 
+[[http://blog.itpub.net/30088583/viewspace-1387176/][PostgreSQL FSM(Free Space Map) 源码解读]]
 ** mysql
 [[http://blogread.cn/it/article/4772?f=sa][mysql数据库innodb存储引擎查询优化器实现的分析之统计信息]]
 
@@ -165,6 +202,10 @@
 [[http://blinkdb.org/][blinkdb]]
 
 [[http://kylin.apache.org/][apache kylin]]
+** NoSQL
+[[http://www.cnblogs.com/huqingyu/archive/2006/10/06/522251.html][Berkeley DB(一) -- 入门知识和一个小例子]]
+
+[[http://blog.csdn.net/houzengjiang/article/details/7718548][LevelDB原理探究与代码分析]]
 ** jdbc
 [[https://www.javaworld.com/article/2074249/data-storage/create-your-own-type-3-jdbc-driver--part-1.html][create your own type 3 jdbc driver]]
 * video
@@ -193,6 +234,10 @@
 [[http://open.163.com/special/sp/positivepsychology.html][哈佛大学公开课：幸福课]]
 
 [[http://v.163.com/jishi/v8u09b3pi/v8u0bqjmo.html][关于减肥你应该知道的十件事]]
+
+[[http://v.youku.com/v_show/id_XNzM1NDYwNTI=.html][FreeBSD Kernel Internals]]
+
+[[http://v.youku.com/v_show/id_XNTYxMTgyOTM2.html][Angela Lee:通往成功的秘诀----耐力]]
 ** movie
 [[http://v.youku.com/v_show/id_xmte5mdq3ndq=.html][十二怒汉 美国版，1957]]
 
@@ -227,6 +272,8 @@
 [[https://www.codeproject.com/articles/570638/ten-cplusplus-features-every-cplusplus-developer][ten c++11 features every c++ developer should use]]
 
 [[http://blog.csdn.net/hikaliv/article/details/4212864][c++异常处理须知]]
+
+[[http://blog.csdn.net/jiangfuqiang/article/details/8292906][shared_ptr线程安全性分析]]
 ** python
 [[http://python-3-patterns-idioms-test.readthedocs.io/en/latest/index.html][python 3 patterns, recipes and idioms]]
 
@@ -237,14 +284,30 @@
 [[https://my.oschina.net/taogang/blog/271060][使用python抓取欧洲足球联赛数据]]
 
 [[http://blog.csdn.net/balabalamerobert/article/category/168910][python源码剖析]]
+
+[[http://www.faqs.org/docs/ZopeBook/Preface.html][The Zope Book]]
+
+[[http://pyunit.sourceforge.net/pyunit_cn.html][Python单元测试框架]]
+
+[[http://blog.csdn.net/magicbreaker/article/details/3754733][使用pdb调试Python程序]]
+
+[[http://www2.lib.uchicago.edu/keith/courses/python/][Introduction to the Python Programming Language]]
+
+[[http://developer.51cto.com/art/201003/187960.htm][Python读写文件实际操作的五大步骤]]
 ** erlang
 [[http://www.cnblogs.com/me-sa/archive/2011/10/23/2221884.html][erlang 杂记]]
 
 [[http://learnyousomeerlang.com/starting-out][learn you some erlang for great good!]]
+
+[[http://blog.equanimity.nl/blog/2011/10/07/a-basic-full-text-search-server-in-erlang/][A Basic Full Text Search Server in Erlang]]
 ** lisp
 [[http://acl.readthedocs.io/en/latest/zhcn/preface-cn.html][ansi common lisp 中文版]]
 ** f#
 [[https://channel9.msdn.com/blogs/pdc2008/tl11][an introduction to microsoft f#]]
+** R
+[[http://www.cyclismo.org/tutorial/R/][R Tutorial]]
+
+[[http://www.mayin.org/ajayshah/KB/R/index.html][R by example]]
 ** swift
 [[https://developer.apple.com/library/content/documentation/swift/conceptual/swift_programming_language/guidedtour.html#//apple_ref/doc/uid/tp40014097-ch2-xid_1][a swift tour]]
 ** scala
@@ -261,6 +324,37 @@
 [[https://github.com/lauris/awesome-scala][awesome scala]]
 
 [[https://www.artima.com/scalazine/articles/pattern_matching.html][the point of pattern matching in scala]]
+
+[[http://aperiodic.net/phil/scala/s-99/][S-99: Ninety-Nine Scala Problems]]
+
+[[http://blog.thedigitalcatonline.com/blog/2015/04/07/99-scala-problems-index/][99 Scala Problems]]
+
+** Lua
+[[http://www.lua.org/semish94.html][The design and implementation of a language for extending applications]]
+** Haskell
+[[http://www.ruanyifeng.com/blog/2015/07/monad.html][图解 Monad]]
+** Design Pattern
+[[http://blog.csdn.net/longronglin/article/details/1454315][设计模式大全]]
+
+[[http://www.cnblogs.com/hnrainll/archive/2011/12/29/2305582.html][java常用设计模式]]
+** Crawler
+[[http://blog.chinaunix.net/uid-22414998-id-4079170.html][Python抓取京东图书评论数据]]
+
+[[http://www.jb51.net/article/54545.htm][Python抓取京东图书评论数据]]
+
+[[https://my.oschina.net/lpe234/blog/305393][python爬虫----（6. scrapy框架，抓取亚马逊数据）]]
+
+[[http://www.jb51.net/article/45421.htm][python抓取京东价格分析京东商品价格走势]]
+
+[[https://mp.weixin.qq.com/s?__biz=MzA3MDg0MjgxNQ==&mid=207829181&idx=1&sn=15417283e7f0076659b044065dcc34fc&scene=0#rd][{Python爬虫代码}抓取京东商品价格走势及图书评论数据]]
+
+[[https://www.2cto.com/kf/201404/293572.html][用nodeJs写个简易的爬虫]]
+
+[[https://tudorbarbu.ninja/pywebkitgtk-execute-javascript-from-python/][PyWebkitgtk – Eexecute javascript from python]]
+
+[[http://www.doc88.com/p-1768037528022.html][支持JavaScript解析的网络爬虫系统的设计与实现]]
+
+[[https://wenku.baidu.com/view/75daafc6aa00b52acfc7ca13.html][无比强大的网络爬虫]]
 * tools
 ** linux & unix
 [[http://blog.csdn.net/zhoudaxia/article/details/6666872][linux init程序分析]]
@@ -282,6 +376,26 @@
 [[http://www.tldp.org/ldp/tlk/tlk.html][the linux kernel]]
 
 [[http://www.tldp.org/ldp/sag/html/index.html][the linux system administrator's guide]]
+
+[[http://kos.enix.org/pub/linux-vmm.html][Linux Memory Manager]]
+
+[[http://man.lupaworld.com/content/other/linuxipsecvpn/resource_tommy/Linux%25C4%25DA%25BA%25CB/driver/LJ%252028%2520Device%2520Drivers%2520Concluded.htm][Device Drivers Concluded]]
+
+[[http://blog.csdn.net/vanbreaker/article/category/1132690][vanbreaker 专栏]]
+
+[[http://soft.yesky.com/lesson/1/2648001.shtml][Linux设备驱动程序开发入门]]
+
+[[https://computing.llnl.gov/tutorials/pthreads/][POSIX Threads Programming]]
+
+[[http://tldp.org/LDP/lkmpg/2.6/html/x427.html][The Linux Kernel Module Programming Guide]]
+
+[[http://www.comptechdoc.org/os/linux/howlinuxworks/linux_hlabbrboot.html][An abbreviated description of the Linux Boot up process]]
+
+[[http://blog.csdn.net/anqi55/article/details/6687829][Linux驱动修炼之道-DM9000A网卡驱动框架源码分析]]
+
+[[http://tldp.org/HOWTO/Program-Library-HOWTO/index.html][Program Library HOWTO]]
+
+[[http://www.comptechdoc.org/os/linux/usersguide/linux_ugterminal.html][Keys and Linux Terminal Configuration]]
 ** vim
 [[http://vim.wikia.com/wiki/mapping_keys_in_vim_-_tutorial_(part_1)][mapping keys in vim]]
 
@@ -305,6 +419,10 @@
 [[http://heather.cs.ucdavis.edu/~matloff/beamer.html][the beamer package for slide making in latex]]
 
 [[https://www.miwie.org/presentations/presentations.html][screen presentation tools]]
+
+[[https://en.wikipedia.org/wiki/Graph_drawing][Graph drawing]]
+
+[[http://www.personal.ceu.hu/tex/latex.htm][LaTeX General Help]]
 ** xml
 [[http://www.xmlpatterns.com/][develop effective xml documents using structural design patterns]]
 ** llvm
@@ -319,6 +437,10 @@
 [[http://sishuok.com/forum/blogpost/list/5936.html][hdfs原理 架构和副本机制]]
 
 [[http://langyu.iteye.com/blog/992916][mapreduce:详解shuffle过程]]
+
+[[https://developer.yahoo.com/hadoop/tutorial/][Yahoo! Hadoop Tutorial]]
+
+[[http://www.cs.brandeis.edu//~cs147a/lab/hadoop-example/][Hadoop Example Program]]
 ** docker
 [[https://my.oschina.net/feedao/blog/223795][docker使用系列]]
 
@@ -327,6 +449,8 @@
 [[http://www.oschina.net/translate/docker-network-configuration][docker 网络配置]]
 
 [[https://goldmann.pl/blog/2014/01/21/connecting-docker-containers-on-multiple-hosts/][connecting docker containers on multiple hosts]]
+
+[[https://coolshell.cn/articles/17010.html][DOCKER基础技术：LINUX NAMESPACE]]
 ** spark
 [[http://shiyanjun.cn/archives/744.html][RDD：基于内存的集群计算容错抽象]]
 
@@ -351,10 +475,18 @@
 [[https://www.iteblog.com/archives/tag/spark/][Spark 专栏]]
 
 [[https://my.oschina.net/ghostmanyue/blog][stark_summer 博客]]
+
+[[http://www.csdn.net/article/2013-11-28/2817652-BDTC2013-interview-Li-Haoyuan][大数据存储以及处理框架经验分享]]
 ** Misc
 [[http://www.sagehill.net/docbookxsl/index.html][DocBook XSL: The Complete Guide]]
+
+[[http://www.ourd3js.com/wordpress/][数据可视化专题站]]
+
+[[https://d3js.org/][D3s, Data-Driven Documents]]
 * Math
 [[https://mathematica.stackexchange.com/questions/3069/elegant-operations-on-matrix-rows-and-columns][Elegant operations on matrix rows and columns]]
+
+[[http://stattrek.com/][Statistics and probability]]
 * Life
 [[https://www.forbes.com/sites/jessicahagy/2012/10/04/40-things-to-say-before-you-die/#73e9c9202605][40 Things To Say Before You Die]]
 * Community
@@ -408,6 +540,10 @@
 [[http://llvm.org/docs/LangRef.html][LLVM Language Reference Manual]]
 
 [[https://www.cloudera.com/documentation/enterprise/latest.html][Cloudera Enterprise 5.13.x Documentation]]
+
+[[https://en.wikipedia.org/wiki/Software_design_pattern][Software design pattern]]
+
+[[http://graphics.stanford.edu/~seander/bithacks.html][Bit Twiddling Hacks]]
 * Site and project
 
 ** Deep Learning
@@ -423,6 +559,133 @@
 * Finished
 
 ** 
+
+
+[[https://blog.openshift.com/learning-30-technologies-in-30-days-a-developer-challenge/][Learning 30 Technologies in 30 Days: A Developer Challenge]]
+
+[[https://nlp.stanford.edu/IR-book/][Introduction to Information Retrieval]]
+
+[[https://stackoverflow.com/questions/610245/where-and-why-do-i-have-to-put-the-template-and-typename-keywords][Where and why do I have to put the “template” and “typename” keywords?]]
+
+[[https://isocpp.org/blog/2012/11/universal-references-in-c11-scott-meyers][Universal References in C++11—Scott Meyers]]
+
+[[http://thbecker.net/articles/rvalue_references/section_01.html][C++ Rvalue References Explained]]
+
+[[http://www.guoxue.com/shibu/zztj/zztjml.htm][资治通鉴]]
+
+[[https://en.wikipedia.org/wiki/88_modern_constellations_by_area][88 modern constellations by area]]
+
+[[https://en.wikipedia.org/wiki/Distributed_lock_manager][Distributed lock manager]]
+
+[[http://ksat.me/a-plain-english-introduction-to-cap-theorem/][A plain english introduction to CAP Theorem]]
+
+[[https://cacm.acm.org/magazines/2009/7/32091-the-five-minute-rule-20-years-later/fulltext][The Five-Minute Rule 20 Years Later]]
+
+[[http://strace.co/28OEQMU#https://hamidreza-s.github.io/erlang%2520garbage%2520collection%2520memory%2520layout%2520soft%2520realtime/2015/08/24/erlang-garbage-collection-details-and-why-it-matters.html][Erlang Garbage Collection Details and Why It Matters]]
+
+[[http://danluu.com/limplock/][Distributed systems: when limping hardware is worse than dead hardware]]
+
+[[http://blog.csdn.net/zbf8441372/article/category/1556747][张包峰的Spark博客]]
+
+[[https://www.ibm.com/developerworks/library/l-flexbison/][Better error handling using Flex and Bison]]
+
+[[https://ds9a.nl/lex-yacc/cvs/lex-yacc-howto.html][Lex and YACC primer/HOWTO]]
+
+[[http://www.csdn.net/article/2015-11-26/2826332][逻辑回归、决策树和支持向量机]]
+
+[[http://spark.apache.org/docs/latest/rdd-programming-guide.html#spark-programming-guide][Spark Programming Guide]]
+
+[[http://www.36dsj.com/][36大数据]]
+
+[[http://dblp.uni-trier.de/pers/hd/g/Graefe:Goetz][Goetz Graefe papers]]
+
+[[http://pages.cs.wisc.edu/~remzi/OSTEP/][Operating Systems: Three Easy Pieces]]
+
+[[https://0xax.gitbooks.io/linux-insides/content/index.html][linux-insides]]
+
+[[https://ext4.wiki.kernel.org/index.php/Main_Page][Ext4 (and Ext2/Ext3) Wiki]]
+
+[[https://loveforprogramming.quora.com/Memory-locality-the-magic-of-B-Trees][Memory locality & the magic of B-Trees!]]
+
+[[http://www.cs.cmu.edu/afs/cs/academic/class/15721-f01/www/readings.html][DBMS Design & implementation]]
+
+[[http://www.redbook.io/][Readings in Database Systems, 5th Edition]]
+
+[[https://my.oschina.net/venps/blog/614776][AVL树-scala实现]]
+
+[[http://os.51cto.com/art/201511/498289.htm][在Linux命令行下使用Mop监视股票价格]]
+
+[[http://www.cnblogs.com/fxjwind/p/3755300.html][HyperLogLog in Practice: Algorithmic Engineering of a State of The Art Cardinality Estimation Algorithm]]
+
+[[http://blog.codinglabs.org/articles/algorithms-for-cardinality-estimation-part-i.html][解读Cardinality Estimation算法]]
+
+[[https://www.toptal.com/go/go-programming-a-step-by-step-introductory-tutorial][Go Programming Language: An Introductory Tutorial]]
+
+[[https://www.scala-exercises.org/][SCALA EXERCISES]]
+
+[[http://blog.csdn.net/caleng/article/details/5712850][web.py 十分钟创建简易博客]]
+
+[[http://blog.csdn.net/BeiiGang/article/category/947307/5][深入理解PostgreSQL]]
+
+[[https://databricks.com/blog/2015/04/13/deep-dive-into-spark-sqls-catalyst-optimizer.html][Deep Dive into Spark SQL’s Catalyst Optimizer]]
+
+[[https://google.github.io/styleguide/lispguide.xml][Google Common Lisp Style Guide]]
+
+[[http://people.ace.ed.ac.uk/staff/medward2/class/moz/cm/doc/contrib/lispstyle.html][Lisp Style Tips for the Beginner]]
+
+[[http://wenku.it168.com/d_000145696.shtml][Oracle Insights Tales of the Oak Table]]
+
+[[http://blog.jobbole.com/100733/][一大波能提高编程技能的游戏]]
+
+[[https://zhengqm.github.io/code/2015/06/20/Learn-by-hacking-redis-source-code/][Learn by Hacking - Redis源码速览]]
+
+[[https://github.com/huangz1990/blog/blob/master/diary/2014/how-to-read-redis-source-code.rst][如何阅读 Redis 源码？]]
+
+[[http://jorditorres.org/research-teaching/tensorflow/first-contact-with-tensorflow-book/first-contact-with-tensorflow/][First contact with TensorFlow]]
+
+[[First contact with TensorFlow][Linux: How do you use the command coproc in Bash?]]
+
+[[http://geant4.cern.ch/collaboration/c++11_guide.shtml][Geant4 C++11 Features Guidelines]]
+
+[[https://mikecvet.wordpress.com/tag/c/][Customizing TR1 unordered_map Hashing and Equality Functions]]
+
+[[https://my.oschina.net/fgq611/blog/113249][Linux内核调试方法总结]]
+
+[[http://dbaplus.cn/news-21-341-1.html?hmsr=toutiao.io][聊聊Greenplum的那些事]]
+
+[[http://www.cnblogs.com/doveyid/archive/2011/09/06/2169126.html][Emacs配置]]
+
+[[https://linoxide.com/guide/linux-command-shelf.html][Linux Commands In Structured Order]]
+
+[[http://www.360doc.com/content/10/0530/09/895308_30270671.shtml][电脑主板连接线图解]]
+
+[[https://elliot.land/post/implementing-your-own-transactions-with-mvcc][IMPLEMENTING YOUR OWN TRANSACTIONS WITH MVCC]]
+
+[[http://www.csdn.net/article/2015-11-26/2826332][逻辑回归、决策树和支持向量机]]
+
+[[https://github.com/ngaut/builddatabase][Build a distributed SQL database from the ground up]]
+
+[[http://www.wesnoth.org/][The Battle for Wesnoth]]
+
+[[http://www.iqiyi.com/lib/m_209284314.html][家族的形式]]
+
+[[https://bravenewgeek.com/stream-processing-and-probabilistic-methods/][Stream Processing and Probabilistic Methods: Data at Scale]]
+
+[[http://ergoemacs.org/emacs/emacs.html][Practical Emacs Tutorial]]
+
+[[http://blog.163.com/li_hx/blog/#m=0&t=3&c=postgresql][那海蓝蓝的博客]]
+
+[[http://r4ds.had.co.nz/index.html][R for Data Science]]
+
+[[https://quanke.gitbooks.io/design-pattern-java/content/][设计模式]]
+
+[[http://mishadoff.com/blog/clojure-design-patterns/][Clojure Design Patterns]]
+
+[[http://www.tutorialspoint.com/index.htm][Tutorials Point]]
+
+
+
+
 
 
 
