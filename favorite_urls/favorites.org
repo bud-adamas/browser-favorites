@@ -559,8 +559,6 @@
 * Finished
 
 ** 
-
-
 [[https://blog.openshift.com/learning-30-technologies-in-30-days-a-developer-challenge/][Learning 30 Technologies in 30 Days: A Developer Challenge]]
 
 [[https://nlp.stanford.edu/IR-book/][Introduction to Information Retrieval]]
@@ -683,13 +681,262 @@
 
 [[http://www.tutorialspoint.com/index.htm][Tutorials Point]]
 
+[[https://site.douban.com/196116/widget/forum/11764640/discussion/612087341/][有声书广播剧资源归类整理]]
 
+[[https://my.oschina.net/pingpangkuangmo/blog/788484][paxos算法证明过程]]
 
+[[http://blog.chinaunix.net/uid-25830557-id-317944.html][我的Emacs配置文件（非常酷的风格！）]]
 
+[[http://wiki.c2.com/?TheKenThompsonHack][The Ken Thompson Hack]]
 
+[[http://madebyevan.com/obscure-cpp-features/][Obscure C++ Features]]
 
+[[http://www.deeplearningbook.org/][Deep Learning: An MIT Press book]]
 
+[[https://ramcloud.stanford.edu/~ongaro/userstudy/][Raft user study]]
 
+[[http://scotdoyle.com/python-epoll-howto.html][How To Use Linux epoll with Python]]
 
+[[http://www.onlineprogrammingbooks.com/][Online Programming Books]]
 
+[[https://leanpub.com/insidethepythonvirtualmachine/read][Inside The Python Virtual Machine]]
 
+[[https://yq.aliyun.com/articles/64847][PostgreSQL clang & gcc]]
+
+[[https://www.enterprisedb.com/blog/horizontal-scalability-postgresql-96-revisited][Horizontal Scalability in PostgreSQL 9.6 - Revisited]]
+
+[[http://pgbovine.net/cpython-internals.htm][CPython internals: A ten-hour codewalk through the Python interpreter source code]]
+
+[[http://cs263-technology-tutorial.readthedocs.io/en/latest/][Welcome to Python VM Internals Tutorial’s documentation!]]
+
+[[http://www.toadworld.com/platforms/oracle/w/wiki/2052.datatypes-empty-versus-null-lobs][Datatypes - Empty Versus NULL LOBs]]
+
+[[http://blog.csdn.net/anzhsoft/article/details/18600163][使用GDB来理解C++ 对象的内存布局]]
+
+[[https://gwydionwilliams.com/42-china/tibet/why-the-west-should-not-be-encouraging-tibetan-separatism/][Why the West should not be encouraging Tibetan separatism]]
+
+[[https://www.2cto.com/kf/201605/511584.html][Lex Yacc (一) 入门]]
+
+[[https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/][Writing a Linux Debugger]]
+
+[[https://linux.cn/article-8626-1.html][开发一个 Linux 调试器]]
+
+[[http://tldp.org/LDP/tlk/tlk.html][The Linux Kernel]]
+
+[[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide][JavaScript Guide]]
+
+[[http://www.w3school.com.cn/js/js_operators.asp][JavaScript 运算符]]
+
+[[https://wiki.sei.cmu.edu/confluence/display/seccode/CERT+C+Secure+Coding+Standard][CERT C Secure Coding Standard]]
+
+[[http://mbreen.com/m4.html][Notes on the M4 Macro Language]]
+
+[[https://www.seindal.dk/rene/gnu/man/m4_toc.html][GNU m4, version 1.4o]]
+
+[[http://learnyouahaskell.com/chapters][Learn You a Haskell for Great Good!]]
+
+[[http://gee.cs.oswego.edu/dl/oosdw3/index.html][Object-Oriented System Development]]
+
+[[http://tdg.docbook.org/tdg/5.0/ch01.html][Getting Started with DocBook]]
+
+[[http://www.informatik.tu-cottbus.de/~giurca/tutorials/DocBook/index.htm][DocBook Tutorial]]
+
+[[http://tdg.docbook.org/tdg/5.0/docbook.html][DocBook 5: The Definitive Guide]]
+
+[[http://www.manythings.org/voa/history/][American History for English Learners]]
+
+[[http://www.51voa.com/][VOA美国之音听力]]
+
+[[http://www.tingroom.com/lesson/qzhi/list_1.html][求职英语300句]]
+
+[[http://www.shiporsheep.com/][shiporsheep]]
+
+[[http://www.putclub.com/html/ability/wordsDaily/20121129/61637.html][美国英语俚语大全]]
+
+[[http://v.youku.com/v_show/id_XNDUzMDg2MTE2.html][BBC 英式发音视频教程]]
+
+[[https://www.catswhocode.com/blog/getting-started-with-couchdb-tutorial-a-beginners-guide][Getting started with CouchDB: a beginner’s guide]]
+
+[[http://tech.it168.com/a2012/0412/1336/000001336693.shtml][在Linux系统下用C#开发MongoDB的步骤]]
+
+[[http://blog.nosqlfan.com/html/3548.html][MongoDB资料汇总专题]]
+
+[[http://www.iqiyi.com/v_19rrhw8yc4.html?src=frbdaldjunest][百万美元宝贝]]
+
+[[http://movie.kankan.com/movie/73385?ref=vod][中国古代史—隋唐五代]]
+
+[[https://www.kujiale.com/][便捷高效的装修设计软件]]
+
+[[http://www.keithschwarz.com/interesting/][The Archive of Interesting Code]]
+
+[[https://pdos.csail.mit.edu/6.828/2010/index.html][Operating System Engineering]]
+
+[[http://testyourvocab.com/][Test your vocab]]
+
+[[http://www.tutorialspoint.com/index.htm][Tutorials point]]
+
+[[http://gee.cs.oswego.edu/dl/html/malloc.html][A Memory Allocator]]
+
+[[http://www.oschina.net/translate/sqlite-queryplanner-ng][下一代的 SQLite 查询规划器]]
+
+[[http://www.oschina.net/translate/29-free-ebooks-on-database-data-mining-and-information-retrieval][29 本关于数据库、数据挖掘和信息检索的免费电子书]]
+
+[[http://www.bottomupcs.com/chapter02.xhtml][Computer Architecture]]
+
+[[http://www.open-std.org/JTC1/SC22/WG21/docs/papers/2014/n4324.html][Use Cases for Thread-Local Storage]]
+
+[[https://my.oschina.net/cytan/blog/361370][十分钟搞定SUSE Linux Enterprise Server 11 SP3上搭建ceph集群]]
+
+[[https://v.qq.com/x/cover/lut0kqybigutbh8.html][BBC纪录片恐龙星球]]
+
+[[https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html-single/performance_tuning_guide/index][Optimizing subsystem throughput in Red Hat Enterprise Linux 6]]
+
+[[https://docs.python.org/2/howto/functional.html][Functional Programming HOWTO]]
+
+[[http://www.learncpp.com/cpp-tutorial/124-early-binding-and-late-binding/][Early binding and late binding]]
+
+[[http://www.cplusplus.com/doc/tutorial/typecasting/][Type conversions in C++]]
+
+[[http://www.csdn.net/article/2011-02-16/291968][Google Megastore分布式存储技术全揭秘]]
+
+[[http://oldblog.antirez.com/post/redis-virtual-memory-story.html][Redis Virtual Memory: the story and the code]]
+
+[[http://v.youku.com/v_show/id_XNDUzMDg2MTE2.html][BBC 英式发音视频教程]]
+
+[[https://www.catswhocode.com/blog/getting-started-with-couchdb-tutorial-a-beginners-guide][Getting started with CouchDB: a beginner’s guide]]
+
+[[http://tech.it168.com/a2012/0412/1336/000001336693.shtml][在Linux系统下用C#开发MongoDB的步骤]]
+
+[[http://blog.nosqlfan.com/html/3548.html][MongoDB资料汇总专题]]
+
+[[http://ashimg.tripod.com/Parser.html][How to Write a Simple Parser]]
+
+[[http://epaperpress.com/lexandyacc/][Lex & Yacc Tutorial]]
+
+[[https://gnuu.org/2009/09/18/writing-your-own-toy-compiler/][Writing Your Own Toy Compiler Using Flex, Bison and LLVM]]
+
+[[http://freshmeat.sourceforge.net/articles/lemon-parser-generator-tutorial][Lemon Parser Generator Tutorial]]
+
+[[http://www.hwaci.com/sw/lemon/lemon.html][The Lemon Parser Generator]]
+
+[[http://guyot.blog.163.com/blog/static/120574021201102461749497/][Lemon语法分析生成器]]
+
+[[http://www.sqlite.org/src/doc/trunk/doc/lemon.html][The Lemon Parser Generator]]
+
+[[http://www.gnudeveloper.com/groups/lemon-parser/understanding-lemon-generated-parser.html][Understanding Lemon generated Parser]]
+
+[[http://blog.csdn.net/column/details/llvm.html][七天 Linux 零基础入门]]
+
+[[http://lldb.llvm.org/lldb-gdb.html][The LLDB Debugger]]
+
+[[https://woboq.com/codebrowser.html][Code Browser by Woboq for C and C++]]
+
+[[https://bellard.org/otcc/][Obfuscated Tiny C Compiler]]
+
+[[http://www.cnblogs.com/geniusvczh/archive/2013/04/28/3049774.html][如何设计一门语言]]
+
+[[https://www.ibm.com/developerworks/cn/java/j-jn2/index.html][Groovy、Scala 和 Clojure 中的共同点]]
+
+[[http://www.cs.nott.ac.uk/~pszgmh/pih.html][Programming in Haskell]]
+
+[[http://www.cnblogs.com/me-sa/category/304370.html][Erlang 随笔]]
+
+[[https://addyosmani.com/resources/essentialjsdesignpatterns/book/][Learning JavaScript Design Patterns]]
+
+[[http://xml.web.cern.ch/XML/goossens/dbatcern/sec.docbook2html.html][XML and DocBook]]
+
+[[http://dsssl.netfolder.com/][The best guide to OpenJade and DSSSL]]
+
+[[https://stackoverflow.com/questions/4153118/list-of-concurrency-models][List of concurrency models]]
+
+[[http://www.parallellabs.com/2010/03/06/why-should-programmer-care-about-sequential-consistency-rather-than-cache-coherence/][为什么程序员需要关心顺序一致性（Sequential Consistency）而不是Cache一致性（Cache Coherence？）]]
+
+[[http://snarfed.org/transactions_across_datacenters_great_ideas.html][Transactions Across Datacenters]]
+
+[[https://en.wikipedia.org/wiki/Monitor_(synchronization)#Waiting_and_signaling][Monitor (synchronization)]]
+
+[[https://www.justsoftwaresolutions.co.uk/threading/multithreading-in-c++0x-part-3.html][Multithreading in C++0x part 3: Starting Threads with Member Functions and Reference Arguments]]
+
+[[http://en.cppreference.com/w/cpp/thread][Thread support library]]
+
+[[https://www.microsoft.com/en-us/research/people/simonpj/?from=http%253A%252F%252Fresearch.microsoft.com%252Fen-us%252Fum%252Fpeople%252Fsimonpj%252Fpapers%252Fstm%252F#!beautiful][Simon Peyton Jones]]
+
+[[http://preshing.com/20120710/memory-barriers-are-like-source-control-operations/][Memory Barriers Are Like Source Control Operations]]
+
+[[http://www.gnu.org/software/libc/manual/html_node/Low_002dLevel-I_002fO.html#Low_002dLevel-I_002fO][Low-Level Input/Output]]
+
+[[http://wiki.mbalib.com/wiki/%25E9%2587%2591%25E8%259E%258D%25E8%25A1%258D%25E7%2594%259F%25E4%25BA%25A7%25E5%2593%2581][金融衍生产品简介]]
+
+[[https://my.oschina.net/fsxchen/blog/110025][linux系统中readline的实现]]
+
+[[https://msdn.microsoft.com/en-us/library/dd409377.aspx][UML Sequence Diagrams: Reference]]
+
+[[https://en.wikipedia.org/wiki/Global_serializability][Global serializability]]
+
+[[https://en.wikipedia.org/wiki/Commitment_ordering][Commitment ordering]]
+
+[[https://en.wikipedia.org/wiki/Concurrency_control][Concurrency control]]
+
+[[https://www.classle.net/#!/classle/book/validation-based-concurrency-control/][Validation based concurrency control]]
+
+[[http://blog.nahurst.com/visual-guide-to-nosql-systems][Visual Guide to NoSQL Systems]]
+
+[[https://dzone.com/articles/better-explaining-cap-theorem][Better explaining the CAP Theorem]]
+
+[[https://elinux.org/RPi_U-Boot][RPi U-Boot]]
+
+[[http://www.runoob.com/go/go-tutorial.html][Go 语言教程]]
+
+[[https://leetcode.com/problems/two-sum/description/][LeetCode]]
+
+[[https://www.jiuzhang.com/solutions/][LINTCODE / LEETCODE 参考答案查询]]
+
+[[http://www.lintcode.com/problem/][LintCode]]
+
+[[https://www.braveclojure.com/introduction/][Clojure for the brave and true]]
+
+[[http://www.bilibili.com/video/av6547465/][中国通史 2016]]
+
+[[http://r4ds.had.co.nz/index.html][R for Data Science]]
+
+[[http://engineering.pivotal.io][Pivotal Engineering Journal]]
+
+[[https://www.dataquest.io/m/6/getting-started-with-numpy][Getting started with NumPy]]
+
+[[https://gof.quanke.name][设计模式]]
+
+[[http://learnvimscriptthehardway.stevelosh.com][Learn Vimscript the Hard Way]]
+
+[[http://blog.jobbole.com/100733/][一大波能提高编程技能的游戏]]
+
+[[http://mishadoff.com/blog/clojure-design-patterns/][Clojure Design Patterns]]
+
+[[http://blog.163.com/li_hx/blog/#m=0&t=3&c=postgresql][那海蓝蓝的博客]]
+
+[[http://ergoemacs.org/emacs/emacs.html][Practical Emacs Tutorial]]
+
+[[https://bravenewgeek.com/stream-processing-and-probabilistic-methods/][Stream Processing and Probabilistic Methods: Data at Scale]]
+
+[[http://www.csdn.net/article/2015-11-26/2826332][逻辑回归、决策树和支持向量机]]
+
+[[https://github.com/ngaut/builddatabase][从零开始写分布式数据库]]
+
+[[https://www.toutiao.com/i6248673760191185410/][必备书单50种]]
+
+[[https://flowerhack.dreamwidth.org/3594.html][A Python Internals Adventure]]
+
+[[http://www.deeplearningbook.org/contents/intro.html][Deep Learning book]]
+
+[[http://www.open-std.org/JTC1/SC22/WG21/docs/papers/2014/n4324.html][Use Cases for Thread-Local Storage]]
+
+[[http://www.redbook.io/][Readings in Database Systems, 5th Edition]]
+
+[[http://bestcbooks.com/recommended-cpp-books/][C++必读书籍推荐]]
+
+[[http://guidetodatamining.com][A Programmer's Guide to Data Mining]]
+
+[[http://open.163.com/special/opencourse/daishu.html][麻省理工公开课：线性代数]]
+
+[[http://blog.csdn.net/balabalamerobert/article/category/168910][Python源码剖析]]
+
+[[https://www.tutorialspoint.com/codingground.htm][Development Environment for Front-end & Back-end Applications]] 
