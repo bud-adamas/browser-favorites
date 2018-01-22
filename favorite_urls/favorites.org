@@ -27,6 +27,11 @@
 
 [[http://www.oschina.net/news/58075/why-i-dont-understand-your-code][为什么我看不懂你的代码]]
 
+[[https://blog.openshift.com/learning-30-technologies-in-30-days-a-developer-challenge/][Learning 30 Technologies in 30 Days: A Developer Challenge]]
+
+[[http://www.guoxue.com/shibu/zztj/zztjml.htm][资治通鉴]]
+
+[[https://en.wikipedia.org/wiki/88_modern_constellations_by_area][88 modern constellations by area]]
 ** memory allocator in c++
 [[https://www.codeproject.com/articles/4795/c-standard-allocator-an-introduction-and-implement][c++ standard allocator, an introduction and implementation]]
 
@@ -137,6 +142,11 @@
 [[https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed][cap twelve years later: how the "rules" have changed]]
 
 [[http://www.csdn.net/article/1970-01-01/2816504][分布式系统事务原子性的非阻塞实现]]
+
+[[http://ksat.me/a-plain-english-introduction-to-cap-theorem/][A plain english introduction to CAP Theorem]]
+
+[[https://dzone.com/articles/better-explaining-cap-theorem][Better explaining the CAP Theorem]]
+
 *** expression calculation
 [[http://blog.cloudera.com/blog/2013/02/inside-cloudera-impala-runtime-code-generation/][inside cloudera impala: runtime code generation]]
 *** storage
@@ -182,6 +192,13 @@
 [[http://etutorials.org/sql/postgresql/part+i+general+postgresql+use/chapter+4.+performance/how+postgresql+organizes+data/][how postgresql organizes data]]
 
 [[http://blog.itpub.net/30088583/viewspace-1387176/][PostgreSQL FSM(Free Space Map) 源码解读]]
+
+[[http://blog.csdn.net/BeiiGang/article/category/947307/5][深入理解PostgreSQL]]
+
+[[https://yq.aliyun.com/articles/64847][PostgreSQL clang & gcc]]
+
+[[https://www.enterprisedb.com/blog/horizontal-scalability-postgresql-96-revisited][Horizontal Scalability in PostgreSQL 9.6 - Revisited]]
+
 ** mysql
 [[http://blogread.cn/it/article/4772?f=sa][mysql数据库innodb存储引擎查询优化器实现的分析之统计信息]]
 
@@ -274,6 +291,26 @@
 [[http://blog.csdn.net/hikaliv/article/details/4212864][c++异常处理须知]]
 
 [[http://blog.csdn.net/jiangfuqiang/article/details/8292906][shared_ptr线程安全性分析]]
+
+[[https://isocpp.org/blog/2012/11/universal-references-in-c11-scott-meyers][Universal References in C++11—Scott Meyers]]
+
+[[http://thbecker.net/articles/rvalue_references/section_01.html][C++ Rvalue References Explained]]
+
+[[http://geant4.cern.ch/collaboration/c++11_guide.shtml][Geant4 C++11 Features Guidelines]]
+
+[[http://madebyevan.com/obscure-cpp-features/][Obscure C++ Features]]
+
+[[http://blog.csdn.net/anzhsoft/article/details/18600163][使用GDB来理解C++ 对象的内存布局]]
+
+[[http://www.cplusplus.com/doc/tutorial/typecasting/][Type conversions in C++]]
+
+[[https://woboq.com/codebrowser.html][Code Browser by Woboq for C and C++]]
+
+[[https://www.justsoftwaresolutions.co.uk/threading/multithreading-in-c++0x-part-3.html][Multithreading in C++0x part 3: Starting Threads with Member Functions and Reference Arguments]]
+
+[[http://bestcbooks.com/recommended-cpp-books/][C++必读书籍推荐]]
+
+[[http://www.learncpp.com/cpp-tutorial/124-early-binding-and-late-binding/][Early binding and late binding]]
 ** python
 [[http://python-3-patterns-idioms-test.readthedocs.io/en/latest/index.html][python 3 patterns, recipes and idioms]]
 
@@ -294,12 +331,29 @@
 [[http://www2.lib.uchicago.edu/keith/courses/python/][Introduction to the Python Programming Language]]
 
 [[http://developer.51cto.com/art/201003/187960.htm][Python读写文件实际操作的五大步骤]]
+
+[[http://scotdoyle.com/python-epoll-howto.html][How To Use Linux epoll with Python]]
+
+[[https://leanpub.com/insidethepythonvirtualmachine/read][Inside The Python Virtual Machine]]
+
+[[http://pgbovine.net/cpython-internals.htm][CPython internals: A ten-hour codewalk through the Python interpreter source code]]
+
+[[http://cs263-technology-tutorial.readthedocs.io/en/latest/][Welcome to Python VM Internals Tutorial’s documentation!]]
+
+[[https://flowerhack.dreamwidth.org/3594.html][A Python Internals Adventure]]
+
+[[http://blog.csdn.net/balabalamerobert/article/category/168910][Python源码剖析]]
 ** erlang
 [[http://www.cnblogs.com/me-sa/archive/2011/10/23/2221884.html][erlang 杂记]]
 
 [[http://learnyousomeerlang.com/starting-out][learn you some erlang for great good!]]
 
 [[http://blog.equanimity.nl/blog/2011/10/07/a-basic-full-text-search-server-in-erlang/][A Basic Full Text Search Server in Erlang]]
+
+[[http://strace.co/28OEQMU#https://hamidreza-s.github.io/erlang%2520garbage%2520collection%2520memory%2520layout%2520soft%2520realtime/2015/08/24/erlang-garbage-collection-details-and-why-it-matters.html][Erlang Garbage Collection Details and Why It Matters]]
+
+[[http://www.cnblogs.com/me-sa/category/304370.html][Erlang 随笔]]
+
 ** lisp
 [[http://acl.readthedocs.io/en/latest/zhcn/preface-cn.html][ansi common lisp 中文版]]
 ** f#
@@ -329,6 +383,8 @@
 
 [[http://blog.thedigitalcatonline.com/blog/2015/04/07/99-scala-problems-index/][99 Scala Problems]]
 
+[[https://www.ibm.com/developerworks/cn/java/j-jn2/index.html][Groovy、Scala 和 Clojure 中的共同点]]
+
 ** Lua
 [[http://www.lua.org/semish94.html][The design and implementation of a language for extending applications]]
 ** Haskell
@@ -338,9 +394,9 @@
 
 [[http://www.cnblogs.com/hnrainll/archive/2011/12/29/2305582.html][java常用设计模式]]
 ** Crawler
-[[http://blog.chinaunix.net/uid-22414998-id-4079170.html][Python抓取京东图书评论数据]]
-
 [[http://www.jb51.net/article/54545.htm][Python抓取京东图书评论数据]]
+
+[[http://blog.chinaunix.net/uid-22414998-id-4079170.html][Python抓取京东图书评论数据]]
 
 [[https://my.oschina.net/lpe234/blog/305393][python爬虫----（6. scrapy框架，抓取亚马逊数据）]]
 
@@ -403,6 +459,12 @@
 ** git
 [[http://gitready.com][git ready]]
 ** emacs
+[[http://www.cnblogs.com/doveyid/archive/2011/09/06/2169126.html][Emacs配置]]
+
+[[http://ergoemacs.org/emacs/emacs.html][Practical Emacs Tutorial]]
+
+[[http://blog.chinaunix.net/uid-25830557-id-317944.html][我的Emacs配置文件（非常酷的风格！）]]
+
 ** qt
 [[http://wiki.qt.io/basic_qt_programming_tutorial][basic qt programming tutorial]]
 
@@ -559,27 +621,11 @@
 * Finished
 
 ** 
-[[https://blog.openshift.com/learning-30-technologies-in-30-days-a-developer-challenge/][Learning 30 Technologies in 30 Days: A Developer Challenge]]
-
 [[https://nlp.stanford.edu/IR-book/][Introduction to Information Retrieval]]
-
-[[https://stackoverflow.com/questions/610245/where-and-why-do-i-have-to-put-the-template-and-typename-keywords][Where and why do I have to put the “template” and “typename” keywords?]]
-
-[[https://isocpp.org/blog/2012/11/universal-references-in-c11-scott-meyers][Universal References in C++11—Scott Meyers]]
-
-[[http://thbecker.net/articles/rvalue_references/section_01.html][C++ Rvalue References Explained]]
-
-[[http://www.guoxue.com/shibu/zztj/zztjml.htm][资治通鉴]]
-
-[[https://en.wikipedia.org/wiki/88_modern_constellations_by_area][88 modern constellations by area]]
 
 [[https://en.wikipedia.org/wiki/Distributed_lock_manager][Distributed lock manager]]
 
-[[http://ksat.me/a-plain-english-introduction-to-cap-theorem/][A plain english introduction to CAP Theorem]]
-
 [[https://cacm.acm.org/magazines/2009/7/32091-the-five-minute-rule-20-years-later/fulltext][The Five-Minute Rule 20 Years Later]]
-
-[[http://strace.co/28OEQMU#https://hamidreza-s.github.io/erlang%2520garbage%2520collection%2520memory%2520layout%2520soft%2520realtime/2015/08/24/erlang-garbage-collection-details-and-why-it-matters.html][Erlang Garbage Collection Details and Why It Matters]]
 
 [[http://danluu.com/limplock/][Distributed systems: when limping hardware is worse than dead hardware]]
 
@@ -623,8 +669,6 @@
 
 [[http://blog.csdn.net/caleng/article/details/5712850][web.py 十分钟创建简易博客]]
 
-[[http://blog.csdn.net/BeiiGang/article/category/947307/5][深入理解PostgreSQL]]
-
 [[https://databricks.com/blog/2015/04/13/deep-dive-into-spark-sqls-catalyst-optimizer.html][Deep Dive into Spark SQL’s Catalyst Optimizer]]
 
 [[https://google.github.io/styleguide/lispguide.xml][Google Common Lisp Style Guide]]
@@ -643,15 +687,11 @@
 
 [[First contact with TensorFlow][Linux: How do you use the command coproc in Bash?]]
 
-[[http://geant4.cern.ch/collaboration/c++11_guide.shtml][Geant4 C++11 Features Guidelines]]
-
 [[https://mikecvet.wordpress.com/tag/c/][Customizing TR1 unordered_map Hashing and Equality Functions]]
 
 [[https://my.oschina.net/fgq611/blog/113249][Linux内核调试方法总结]]
 
 [[http://dbaplus.cn/news-21-341-1.html?hmsr=toutiao.io][聊聊Greenplum的那些事]]
-
-[[http://www.cnblogs.com/doveyid/archive/2011/09/06/2169126.html][Emacs配置]]
 
 [[https://linoxide.com/guide/linux-command-shelf.html][Linux Commands In Structured Order]]
 
@@ -669,8 +709,6 @@
 
 [[https://bravenewgeek.com/stream-processing-and-probabilistic-methods/][Stream Processing and Probabilistic Methods: Data at Scale]]
 
-[[http://ergoemacs.org/emacs/emacs.html][Practical Emacs Tutorial]]
-
 [[http://blog.163.com/li_hx/blog/#m=0&t=3&c=postgresql][那海蓝蓝的博客]]
 
 [[http://r4ds.had.co.nz/index.html][R for Data Science]]
@@ -685,33 +723,13 @@
 
 [[https://my.oschina.net/pingpangkuangmo/blog/788484][paxos算法证明过程]]
 
-[[http://blog.chinaunix.net/uid-25830557-id-317944.html][我的Emacs配置文件（非常酷的风格！）]]
-
 [[http://wiki.c2.com/?TheKenThompsonHack][The Ken Thompson Hack]]
-
-[[http://madebyevan.com/obscure-cpp-features/][Obscure C++ Features]]
-
-[[http://www.deeplearningbook.org/][Deep Learning: An MIT Press book]]
 
 [[https://ramcloud.stanford.edu/~ongaro/userstudy/][Raft user study]]
 
-[[http://scotdoyle.com/python-epoll-howto.html][How To Use Linux epoll with Python]]
-
 [[http://www.onlineprogrammingbooks.com/][Online Programming Books]]
 
-[[https://leanpub.com/insidethepythonvirtualmachine/read][Inside The Python Virtual Machine]]
-
-[[https://yq.aliyun.com/articles/64847][PostgreSQL clang & gcc]]
-
-[[https://www.enterprisedb.com/blog/horizontal-scalability-postgresql-96-revisited][Horizontal Scalability in PostgreSQL 9.6 - Revisited]]
-
-[[http://pgbovine.net/cpython-internals.htm][CPython internals: A ten-hour codewalk through the Python interpreter source code]]
-
-[[http://cs263-technology-tutorial.readthedocs.io/en/latest/][Welcome to Python VM Internals Tutorial’s documentation!]]
-
 [[http://www.toadworld.com/platforms/oracle/w/wiki/2052.datatypes-empty-versus-null-lobs][Datatypes - Empty Versus NULL LOBs]]
-
-[[http://blog.csdn.net/anzhsoft/article/details/18600163][使用GDB来理解C++ 对象的内存布局]]
 
 [[https://gwydionwilliams.com/42-china/tibet/why-the-west-should-not-be-encouraging-tibetan-separatism/][Why the West should not be encouraging Tibetan separatism]]
 
@@ -793,10 +811,6 @@
 
 [[https://docs.python.org/2/howto/functional.html][Functional Programming HOWTO]]
 
-[[http://www.learncpp.com/cpp-tutorial/124-early-binding-and-late-binding/][Early binding and late binding]]
-
-[[http://www.cplusplus.com/doc/tutorial/typecasting/][Type conversions in C++]]
-
 [[http://www.csdn.net/article/2011-02-16/291968][Google Megastore分布式存储技术全揭秘]]
 
 [[http://oldblog.antirez.com/post/redis-virtual-memory-story.html][Redis Virtual Memory: the story and the code]]
@@ -829,17 +843,11 @@
 
 [[http://lldb.llvm.org/lldb-gdb.html][The LLDB Debugger]]
 
-[[https://woboq.com/codebrowser.html][Code Browser by Woboq for C and C++]]
-
 [[https://bellard.org/otcc/][Obfuscated Tiny C Compiler]]
 
 [[http://www.cnblogs.com/geniusvczh/archive/2013/04/28/3049774.html][如何设计一门语言]]
 
-[[https://www.ibm.com/developerworks/cn/java/j-jn2/index.html][Groovy、Scala 和 Clojure 中的共同点]]
-
 [[http://www.cs.nott.ac.uk/~pszgmh/pih.html][Programming in Haskell]]
-
-[[http://www.cnblogs.com/me-sa/category/304370.html][Erlang 随笔]]
 
 [[https://addyosmani.com/resources/essentialjsdesignpatterns/book/][Learning JavaScript Design Patterns]]
 
@@ -855,7 +863,6 @@
 
 [[https://en.wikipedia.org/wiki/Monitor_(synchronization)#Waiting_and_signaling][Monitor (synchronization)]]
 
-[[https://www.justsoftwaresolutions.co.uk/threading/multithreading-in-c++0x-part-3.html][Multithreading in C++0x part 3: Starting Threads with Member Functions and Reference Arguments]]
 
 [[http://en.cppreference.com/w/cpp/thread][Thread support library]]
 
@@ -881,8 +888,6 @@
 
 [[http://blog.nahurst.com/visual-guide-to-nosql-systems][Visual Guide to NoSQL Systems]]
 
-[[https://dzone.com/articles/better-explaining-cap-theorem][Better explaining the CAP Theorem]]
-
 [[https://elinux.org/RPi_U-Boot][RPi U-Boot]]
 
 [[http://www.runoob.com/go/go-tutorial.html][Go 语言教程]]
@@ -905,15 +910,11 @@
 
 [[https://gof.quanke.name][设计模式]]
 
-[[http://learnvimscriptthehardway.stevelosh.com][Learn Vimscript the Hard Way]]
-
 [[http://blog.jobbole.com/100733/][一大波能提高编程技能的游戏]]
 
 [[http://mishadoff.com/blog/clojure-design-patterns/][Clojure Design Patterns]]
 
 [[http://blog.163.com/li_hx/blog/#m=0&t=3&c=postgresql][那海蓝蓝的博客]]
-
-[[http://ergoemacs.org/emacs/emacs.html][Practical Emacs Tutorial]]
 
 [[https://bravenewgeek.com/stream-processing-and-probabilistic-methods/][Stream Processing and Probabilistic Methods: Data at Scale]]
 
@@ -923,20 +924,12 @@
 
 [[https://www.toutiao.com/i6248673760191185410/][必备书单50种]]
 
-[[https://flowerhack.dreamwidth.org/3594.html][A Python Internals Adventure]]
-
-[[http://www.deeplearningbook.org/contents/intro.html][Deep Learning book]]
-
 [[http://www.open-std.org/JTC1/SC22/WG21/docs/papers/2014/n4324.html][Use Cases for Thread-Local Storage]]
 
 [[http://www.redbook.io/][Readings in Database Systems, 5th Edition]]
 
-[[http://bestcbooks.com/recommended-cpp-books/][C++必读书籍推荐]]
-
 [[http://guidetodatamining.com][A Programmer's Guide to Data Mining]]
 
 [[http://open.163.com/special/opencourse/daishu.html][麻省理工公开课：线性代数]]
-
-[[http://blog.csdn.net/balabalamerobert/article/category/168910][Python源码剖析]]
 
 [[https://www.tutorialspoint.com/codingground.htm][Development Environment for Front-end & Back-end Applications]] 
