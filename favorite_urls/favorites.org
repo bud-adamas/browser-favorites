@@ -205,6 +205,8 @@
 [[http://blogread.cn/it/article/234?f=sa][mysql查询优化器浅析]]
 
 [[http://www.informit.com/articles/article.aspx?p=377652][mysql query optimization]]
+
+[[https://dev.mysql.com/doc/dev/mysql-server/8.0.0/][MySQL Code Documentation]]
 ** sqlite
 [[http://www.cnblogs.com/xzpp/category/320908.html][sqlite 随笔]]
 
